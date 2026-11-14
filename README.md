@@ -1,1 +1,3 @@
 # Campus-Carpool-Coordination-Portal
+The Campus Carpool Coordination Portal is a menu-driven Python application designed to help university students coordinate shared journeys. It provides a structured way for students to create accounts, select a Driver or Passenger role, publish one-time rides, find available rides and manage passenger bookings.
+The project addresses a common campus commuting problem: students travelling to or from similar locations may be able to share a vehicle, but coordinating departure details, available seats and cost-sharing informally can be difficult. The portal centralizes these basic activities in one application.
